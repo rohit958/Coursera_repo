@@ -1,1 +1,2 @@
+print("helloMike".find("Mike"))
 
